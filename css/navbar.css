@@ -1,0 +1,71 @@
+.bg-custom {
+	background-color: #fff !important;
+	transition: 0.3s;
+	color: gray !important;
+}
+
+.bg-custom:hover {
+	background-color: #6884e7 !important;
+	color: #fff !important;
+}
+
+.bg-custom-sm {
+	background-color: #6884e7 !important;
+	transition: 0.3s;
+	color: #fff !important;
+}
+
+.bg-custom-sm:hover {
+	background-color: #3950a5 !important;
+	color: #fff !important;
+}
+
+.bg-active {
+	background-color: transparent !important;
+	transition: 0.3s;
+	color: #6884e7 !important;
+}
+
+.navbar {
+	width: 100%;
+}
+
+.link-navbar {
+	color: grey !important;
+	transition: 0.3s;
+}
+
+.link-navbar:hover {
+	color: #6884e7 !important;
+	transition: 0.3s;
+}
+
+.link-navbar-sm {
+	color: #EC8A99 !important;
+	transition: 0.3s;
+}
+
+.link-navbar-sm:hover {
+	color: #6884e7 !important;
+	transition: 0.3s;
+}
+
+.link-navbar2 {
+	color: grey !important;
+	transition: 0.3s;
+}
+
+.link-navbar2:hover {
+	color: #6884e7 !important;
+	transition: 0.3s;
+}
+
+.link-navbar-sm2 {
+	color: #EC8A99 !important;
+	transition: 0.3s;
+}
+
+.link-navbar-sm2:hover {
+	color: #6884e7 !important;
+	transition: 0.3s;
+}
